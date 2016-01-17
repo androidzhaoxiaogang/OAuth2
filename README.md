@@ -17,7 +17,7 @@ Then start server:
 ```
 mvn spring-boot:run
 ```
-For android client change configuration in file (app/src/main/res/values/confilg.xml):
+For android client change configuration in file (app/src/main/res/values/config.xml):
 ```
 <string name="oauth2_client_id">oauth2app2</string>
     <string name="oauth2_client_secret">mySecretOAuthSecret2</string>
@@ -29,3 +29,7 @@ For android client change configuration in file (app/src/main/res/values/confilg
 
 ```
 
+//TODO 
+- Add documentation 
+- Add test
+- Add users list
