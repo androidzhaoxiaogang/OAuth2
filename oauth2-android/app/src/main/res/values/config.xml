@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="oauth2_client_id">oauth2app2</string>
+    <string name="oauth2_client_secret">mySecretOAuthSecret2</string>
+    <string name="oauth2_endpoints">http://192.168.1.199:8080/</string>
+    <string-array name="oauth2_scopes">
+        <item>read</item>
+        <item>write</item>
+    </string-array>
+
+
+</resources>
